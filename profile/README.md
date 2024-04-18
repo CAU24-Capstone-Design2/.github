@@ -13,7 +13,8 @@
 
 
 ## 🐥 TEAM 
-<여기에 우리 역할 및 사진>
+<img src="https://github.com/CAU24-Capstone-Design2/.github/assets/80440429/ab68df0a-9bef-4d05-9d73-84506a62ede7.png" width="700" height="255"/>
+
 
 
 
